@@ -8,7 +8,7 @@ Version:	0.10
 Release:	%mkrel 1
 License:        GPLv2+
 Group:		File tools
-URL:		http://code.google.com/p/garmintools/
+URL:		https://code.google.com/p/garmintools/
 Source0:	http://garmintools.googlecode.com/files/%{name}-%{version}.tar.gz
 Source1:	51-garmin.rules
 Source2:	garmintools.conf
